@@ -3,8 +3,9 @@ get a list of variants of concern from ECDC web page
 (https://www.ecdc.europa.eu/en/covid-19/variants-concern)
 
 ```
-bash get.sh
+$ bash get.sh
 ```
+example output:
 ```
 BA.2
 BA.4
