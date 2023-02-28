@@ -1,6 +1,6 @@
 # get_variants_of_concern_from_ECDC
 
-Get the most up to date list of variants of concern from ECDC web page in your terminal
+Get the list of "variants of concern" from the ECDC web page directly in your terminal
 (https://www.ecdc.europa.eu/en/covid-19/variants-concern)
 
 ```
