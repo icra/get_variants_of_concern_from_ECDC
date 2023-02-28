@@ -1,5 +1,6 @@
 # get_variants_of_concern_from_ECDC
-get a list of variants of concern from ECDC web page
+
+Get the most up to date list of variants of concern from ECDC web page in your terminal
 (https://www.ecdc.europa.eu/en/covid-19/variants-concern)
 
 ```
@@ -23,7 +24,7 @@ CH.1.1
 XAY
 ```
 
-You can also use the file `index.php`: it calls the `get.sh` program. Put it inside an apache or
+Bonus: the file `index.php` calls `get.sh`, so you can put it inside an apache or
 nginx server and you will be able to call using javascript `fetch()` API.
 
 ```javascript
